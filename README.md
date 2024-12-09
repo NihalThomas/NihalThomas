@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I am a dedicated AI and Data Science professiona
 
 ### [Real-Time Stock Market Data Pipeline](https://github.com/NihalThomas/Real-Time-Stock-Market-Kafka)
 - **Description:**
-  - Built a robust data pipeline for real-time stock market analysis using Kafka and PySpark.
+  - Built a robust data pipeline for real-time stock market analysis using Kafka and AWS.
   - Ensured seamless data flow and optimized processing for high-volume stock market data.
 
 ### [Fine-Tuning Large Language Model with LoRA](https://www.kaggle.com/code/nihalthomas15/bilingual-translation-english-malayalam)
