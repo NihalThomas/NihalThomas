@@ -1,96 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nihal Thomas</h1>
-<h3 align="center">A Passionate ML Engineer</h3>
+# Nihal Thomas [kaggle Contributor] - AI & Data Science Enthusiast
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihalthomas&theme=onedark" alt="nihalthomas" />
-</p>
+Welcome to my GitHub portfolio! I am a dedicated AI and Data Science professional with expertise in building innovative solutions in natural language processing, data engineering, and machine learning. Here, you'll find some of my most impactful projects and contributions.
 
-<br/>
+---
 
-- 🌱 I’m currently learning **SQL, Dynamic Programming**
+## 🔥 Featured Projects
 
-- 💬 Ask me about **LLM, OpenCV, Machine Learning, SQL**
+### [Meeting Summarizer and Action Plan Generator](https://github.com/NihalThomas/Summarizer-plan-of-action)
+- **Role:** AI Intern @ Infosys Springboard
+- **Highlights:**
+  - Developed an end-to-end summarization tool using OpenAI GPT-3.5 Turbo and Whisper models.
+  - Automated email distribution of meeting summaries, saving 40% of manual effort.
+  - Reduced processing time for meeting recordings by 50%, from 7–9 minutes to 3–4 minutes.
+  - Recognized at the Infosys Springboard Summit and presented to industry leaders.
 
-- 📫 How to reach me **nihalthomas15@gmail.com**
+### [Real-Time Stock Market Data Pipeline](https://github.com/NihalThomas/Real-Time-Stock-Market-Kafka)
+- **Description:**
+  - Built a robust data pipeline for real-time stock market analysis using Kafka and PySpark.
+  - Ensured seamless data flow and optimized processing for high-volume stock market data.
 
-<br/>
+### [Fine-Tuning Large Language Model with LoRA](https://www.kaggle.com/code/nihalthomas15/bilingual-translation-english-malayalam)
+- **Highlights:**
+  - Fine-tuned Gemma 2B for translation tasks using LoRA, reducing training time significantly.
+  - Configured JAX backend for enhanced performance and achieved higher BLEU scores.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nihal-thomas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal-thomas" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/nihalthomas15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nihal-thomas" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nihal_thomas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihal_thomas" height="30" width="40" />
-  </a>
-</p>
+### Sentiment Analysis using BERT
+- **Description:**
+  - Developed a sentiment analysis tool for Yelp comments, achieving 12% improved accuracy.
+  - Leveraged PyTorch and Beautiful Soup for efficient data processing and presentation.
 
-<br/>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+## 🌟 Skills
 
-<br/>
+### **Programming**
+- Python, R, JavaScript
 
-<table align="left">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nihalthomas&show_icons=true&locale=en" alt="nihalthomas" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalthomas&show_icons=true&locale=en&layout=compact" alt="nihalthomas" />
-    </td>
-  </tr>
-</table>
+### **Machine Learning & AI**
+- JAX, Scikit-learn, TensorFlow, Keras, PyTorch, BERT, LoRA Fine-Tuning, spaCy, NLTK
 
-<br/>
+### **Data Engineering**
+- Apache Hadoop, PySpark, Kafka
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalthomas&" alt="nihalthomas" />
-</p>
+### **Cloud & Deployment**
+- AWS, Google Cloud, Docker, FastAPI, REST API
+
+### **Databases**
+- MySQL, DynamoDB
+
+### **Tools**
+- Git, GitHub
+
+---
+
+## 🎓 Education
+
+### APJ Abdul Kalam Technological University  
+**Bachelor of Technology in Artificial Intelligence and Data Science** (June 2024)  
+- **Relevant Coursework:** Probabilty and Statistical Modelling, Deep Learning, Machine Learning, Artificial Intelligence, Data Mining, Big Data Analytics, Data Structure and Algorithm
+
+---
+
+## 📜 Certifications
+
+- **Google Certification in Prompt Design in Vertex AI (LLM, Gen AI)** (October 2024)
+
+---
+
+## 🌐 Online Presence
+
+- **Kaggle:** [kaggle.com/nihalthomas15](https://www.kaggle.com/nihalthomas15)
+- **LinkedIn:** [linkedin.com/in/-nihal-thomas/](https://www.linkedin.com/in/-nihal-thomas/)
+
+---
+
+### 📫 Contact Me
+
+For collaborations or inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-nihal-thomas/) or explore my projects here on GitHub!
