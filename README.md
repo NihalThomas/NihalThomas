@@ -1,4 +1,4 @@
-# Nihal Thomas - AI & Data Science Enthusiast
+# Nihal Thomas - Gen AI Engineer
 
 Welcome to my GitHub portfolio! I am a dedicated AI and Data Science professional with expertise in building innovative solutions in natural language processing, data engineering, and machine learning. Here, you'll find some of my most impactful projects and contributions.
 
